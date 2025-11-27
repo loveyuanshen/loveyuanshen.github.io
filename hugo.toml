@@ -1,4 +1,4 @@
-baseURL = 'loveyuanshen. github.io'
+baseURL = 'https://loveyuanshen.github.io/'
 languageCode = 'en'
 title = 'Railgun的小站'
 theme = 'hugo-theme-reimu'
